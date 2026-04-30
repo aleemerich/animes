@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "2b6da78815df2010",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d60eaeadd7701ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f548b5753faae08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/attack-on-titan.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "attack-on-titan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c200dce103406a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d6732d98e90602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19fa01d62c4aec44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "60ca841859162e57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "6a963556fc79618f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7be4ef0ee42fdd33",
+    "type": "split",
+    "children": [
+      {
+        "id": "74e9858596abfcc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "018c8c75dad1c0db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/attack-on-titan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para attack-on-titan"
+            }
+          },
+          {
+            "id": "3ff69731d90e4f41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/attack-on-titan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para attack-on-titan"
+            }
+          },
+          {
+            "id": "36fd8bf84a479ea4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3e4bafe0bb44e12a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "e225ba1cd8c72540",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/attack-on-titan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de attack-on-titan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "f548b5753faae08c",
+  "lastOpenFiles": [
+    "content/code-geass.md",
+    "content/death-note.md",
+    "content/death-parade.md",
+    "content/monster.md",
+    "content/parasyte.md",
+    "content/psycho-pass.md",
+    "content/steins-gate.md",
+    "content/the-promised-neverland.md",
+    "content/vinland-saga.md",
+    "assets/vinland-saga-poster.jpg",
+    "assets/steins-gate-poster.jpg",
+    "content/attack-on-titan.md",
+    "assets/death-parade-poster.jpg",
+    "assets/parasyte-poster.jpg",
+    "assets/the-promised-neverland-poster.jpg",
+    "assets/monster-poster.jpg",
+    "assets/attack-on-titan-poster.jpg",
+    "assets/psycho-pass-poster.jpg",
+    "template.md",
+    "assets/code-geass-poster.jpg",
+    "assets/death-note-poster.jpg",
+    "content/sedemCVBF",
+    "README.md"
+  ]
+}
