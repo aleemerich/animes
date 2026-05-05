@@ -3,9 +3,10 @@ titulo: "Spy x Family"
 titulo_original: "SPY×FAMILY"
 ano: "2022"
 genero:
-  - Action
-  - Award Winning
-  - Comedy
+  - Ação
+  - Premiado
+  - Comédia
+  - Espionagem
 tags: []
 status: "Assistido"
 assistido: ""
@@ -32,26 +33,23 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between neighboring countries Ostania and Westalis. In spite of their plots, renowned spy and master of disguise "Twilight" fulfills dangerous missions one after another in the hope that no child will have to experience the horrors of war.
+Políticos corruptos, nacionalistas frenéticos e outras forças belicistas colocam constantemente em risco a frágil paz entre os países vizinhos de Ostania e Westalis. Apesar de suas conspirações, o renomado espião mestre em disfarces "Twilight" cumpre missões perigosas uma após a outra na esperança de que nenhuma criança tenha que experimentar os horrores da guerra.
 
-In the bustling Ostanian city of Berlint, Twilight dons the alias of "Loid Forger," an esteemed psychiatrist. However, his true intention is to gather intelligence on prominent politician Donovan Desmond, who only appears rarely in public at his sons' school: the prestigious Eden Academy. Enlisting the help of unmarried city hall clerk Yor Briar to act as his wife and adopting the curious six-year-old orphan Anya as his daughter, Loid enacts his master plan. He will enroll Anya in Eden Academy, where Loid hopes she will excel and give him the opportunity to meet Donovan without arousing suspicion. 
+Na agitada cidade ostaniana de Berlint, Twilight assume o alias de "Loid Forger", um prestigiado psiquiatra. No entanto, sua verdadeira intenção é coletar inteligência sobre o proeminente político Donovan Desmond, que só aparece raramente em público na escola de seus filhos: a prestigiada Academia Eden. Obtenho a ajuda da funcionária solteira da prefeitura Yor Briar para atuar como sua esposa e adotando a curiosa órfã de seis anos Anya como sua filha, Loid promulga seu plano mestre. Ele matriculará Anya na Academia Eden, onde Loid espera que ela se destaque e lhe dê a oportunidade de conhecer Donovan sem despertar suspeitas.
 
-Unfortunately for Loid, even a man of his talents has trouble playing the figure of a loving father and husband. And just like Loid is hiding his true identity, Yor—who is an underground assassin known as "Thorn Princess"—and Anya—an esper who can read people's minds—have no plans to disclose their own secrets either. Although this picture-perfect family is founded on deception, the Forgers gradually come to understand that the love they share for one another trumps all else.
-
-[Written by MAL Rewrite]
+Infelizmente para Loid, mesmo um homem de seus talentos tem dificuldade em interpretar o papel de pai e marido amoroso. E assim como Loid está escondendo sua verdadeira identidade, Yor — que é uma assassina clandestina conhecida como "Princesa Espinho" — e Anya — uma esper que pode ler mentes — também não têm planos de revelar seus próprios segredos. Embora esta família aparentemente perfeita seja fundamentada no engano, os Forgers gradualmente passam a entender que o amor que compartilham uns pelos outros supera tudo o mais.
 
 
 
 ## Informações Importantes
-* **Espionagem e Família:** Combinação de ação de espionagem com comédia familiar.
-* **Poderes:** Yor tem força sobre-humana, Anya é telepata.
-* **Temática:** Confiança, família e equilíbrio entre dever e vida pessoal.
+* **Projeto Apple (Operation Strix):** A missão de Twilight de adotar uma família falsa para se aproximar de Donovan Desmond, um político de Ostania que pode desencadear uma guerra mundial.
+* **Anya Forger:** Uma esper (criança com poderes psiônicos) de 6 anos que pode ler mentes, mas esconde esse segredo de todos. Ela é a chave para a missão do pai, pois lê suas intenções.
+* **Yor Briar (Princesa Espinho):** Assassina clandestina que trabalha para uma organização de Ostania. Ela aceita casar com Loid para manter sua capa, ocultando sua identidade de assassina.
+* **Academia Eden:** Escola de elite onde estudam os filhos da alta sociedade e políticos. Para se formar e manter a missão, Anya precisa ser uma "estudante exemplar" e capturar estrelas (insígnias de mérito).
 
 
 
 ## Links e Conexões
 * **Animes similares:** [Assassination Classroom](assassination-classroom.md), [Great Pretender](great-pretender.md)
-* **Mesmo Estúdio/Diretor:** Estúdio [Wit Studio](wit-studio.md) / [CloverWorks](cloverworks.md)
-* **Por que te lembra esse:** A combinação de ação com comédia familiar e personagens carismáticos.
-* **Mesmo Estúdio/Diretor:** 
-* **Por que te lembra esse:** [Breve explicação]
+* **Mesmo Estúdio/Diretor:** Estúdio [Wit Studio](wit-studio.md) / [CloverWorks](cloverworks.md) — conhecido por comédias e ação familiar
+* **Por que te lembra esse:** A combinação única de espionagem tensa com comédia familiar e personagens extremamente carismáticos.
