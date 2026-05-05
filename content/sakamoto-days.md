@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "Sakamoto Days"
+titulo_original: "SAKAMOTO DAYS"
+ano: "2025"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/58939/Sakamoto_Days"
 veredito_rapido: ""
 ---
 

@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "Spy x Family"
+titulo_original: "SPY×FAMILY"
+ano: "2022"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/50265/Spy_x_Family"
 veredito_rapido: ""
 ---
 

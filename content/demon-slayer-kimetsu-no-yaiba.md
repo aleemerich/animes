@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "Kimetsu no Yaiba"
+titulo_original: "鬼滅の刃"
+ano: "2019"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
 veredito_rapido: ""
 ---
 

@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "Black Clover"
+titulo_original: "ブラッククローバー"
+ano: "2017"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/34572/Black_Clover"
 veredito_rapido: ""
 ---
 

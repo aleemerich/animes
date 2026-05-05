@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "Sousou no Frieren"
+titulo_original: "葬送のフリーレン"
+ano: "2023"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
 veredito_rapido: ""
 ---
 

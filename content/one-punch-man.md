@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "One Punch Man"
+titulo_original: "ワンパンマン"
+ano: "2015"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/30276/One_Punch_Man"
 veredito_rapido: ""
 ---
 

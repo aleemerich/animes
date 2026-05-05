@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "Kusuriya no Hitorigoto"
+titulo_original: "薬屋のひとりごと"
+ano: "2023"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/54492/Kusuriya_no_Hitorigoto"
 veredito_rapido: ""
 ---
 

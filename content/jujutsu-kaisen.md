@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "Jujutsu Kaisen"
+titulo_original: "呪術廻戦"
+ano: "2020"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/40748/Jujutsu_Kaisen"
 veredito_rapido: ""
 ---
 

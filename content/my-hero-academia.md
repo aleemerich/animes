@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "Boku no Hero Academia"
+titulo_original: "僕のヒーローアカデミア"
+ano: "2016"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia"
 veredito_rapido: ""
 ---
 

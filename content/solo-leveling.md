@@ -1,13 +1,13 @@
 ---
-titulo: ""
-titulo_original: ""
-ano: ""
+titulo: "Ore dake Level Up na Ken"
+titulo_original: "俺だけレベルアップな件"
+ano: "2024"
 genero: []
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: ""
+link_referencia: "https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken"
 veredito_rapido: ""
 ---
 
