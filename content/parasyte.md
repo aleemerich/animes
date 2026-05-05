@@ -47,6 +47,6 @@ Alienígenas parasitas chegam à Terra em silêncio. O objetivo deles é entrar 
 * **Evolução Psicológica:** A série brilha ao mostrar como a convivência com Migi afeta a personalidade e os sentimentos de Shinichi de forma drástica e realista.
 
 ## Links e Conexões
-* **Animes similares:** [[Psycho-Pass]], [[Monster]]
-* **Mesmo Estúdio/Diretor:** Estúdio [[Madhouse]]
+* **Animes similares:** [Psycho-Pass](psycho-pass.md), [Monster](monster.md)
+* **Mesmo Estúdio/Diretor:** Estúdio [Madhouse](madhouse.md)
 * **Por que te lembra esse:** Pela reflexão existencial intensa sobre o que nos torna "humanos" e o embate moral de perspectivas diferentes.
