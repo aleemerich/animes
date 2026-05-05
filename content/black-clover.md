@@ -46,6 +46,6 @@ Asta e Yuno foram abandonados na mesma igreja no mesmo dia. Criados juntos, eles
 * **Elves e Demônios:** A história revela camadas profundas de preconceito, guerra civil entre raças (elfos vs humanos) e pactos sombrios com seres de outras dimensões.
 
 ## Links e Conexões
-* **Animes similares:** [[My Hero Academia]], [[Naruto]], [[Bleach]]
-* **Mesmo Estúdio/Diretor:** Estúdio [[Pierrot]] (conhecido por Naruto e Bleach)
+* **Animes similares:** [My Hero Academia](my-hero-academia.md), [Naruto](https://myanimelist.net/anime/1535/Naruto), [Bleach](https://myanimelist.net/anime/269/Bleach)
+* **Mesmo Estúdio/Diretor:** Estúdio [Pierrot](https://myanimelist.net/anime/producer/1/Pierrot) (conhecido por Naruto e Bleach)
 * **Por que te lembra esse:** O clássico "underdog" (azarão) que nasce sem poderes em um mundo de magia, mas supera todos com esforço bruto e determinação, muito similar à jornada de Naruto ou Deku.
