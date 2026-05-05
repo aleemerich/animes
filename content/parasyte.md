@@ -3,10 +3,10 @@ titulo: Parasyte -the maxim-
 titulo_original: 寄生獣 セイの格率 (Kiseijū Sei no Kakuritsu)
 ano: "2014"
 genero:
-  - Sci-Fi
+  - Ficção Científica
   - Ação
   - Thriller Psicológico
-  - Horror
+  - Terror
 tags:
   - alien
   - sobrevivência
