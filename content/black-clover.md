@@ -5,7 +5,12 @@ ano: "2017"
 genero:
   - Action
   - Fantasy
-tags: []
+  - Shounen
+tags:
+  - magia
+  - underdog
+  - grimório
+  - realeza
 status: "Assistido"
 assistido: ""
 nota final: ""
@@ -31,24 +36,16 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the "Wizard King"—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.
-
-When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a "Black Clover" giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King!
-
-[Written by MAL Rewrite]
-
-
+Asta e Yuno foram abandonados na mesma igreja no mesmo dia. Criados juntos, eles conheceram o "Rei Mago" — um título dado ao mago mais forte do reino — e prometeram que competiriam um contra o outro pelo cargo. No entanto, ao crescerem, a diferença entre eles tornou-se evidente. Enquanto Yuno consegue wieldar magia com poder e controle incríveis, Asta não consegue usar magia nenhuma e tenta desesperadamente despertar seus poderes através de treinamento físico. Ao completarem 15 anos, Yuno recebe um Grimório espetacular com um trevo de quatro folhas, enquanto Asta não recebe nada. Porém, logo depois, Yuno é atacado por Lebuty, cujo objetivo principal é obter o Grimório de Yuno. Asta tenta lutar, mas é superado. Embora sem esperança e à beira da derrota, ele encontra forças para continuar ao ouvir a voz de Yuno. Despertando suas emoções internas em fúria, Asta recebe um Grimório de trevo de cinco folhas, um "Black Clover", dando-lhe poder suficiente para derrotar Lebuty. Poucos dias depois, os dois amigos partem para o mundo, ambos buscando o mesmo objetivo — tornarem-se o Rei Mago!
 
 ## Informações Importantes
-* **Magia:** Todos possuem mana, mas Asta não tem nenhuma.
-* **Grimórios:** Livros mágicos que potencializam as habilidades.
-* **Temática:** Perseverança, trabalho em equipe e superação de desvantagens.
-
-
+* **Sistema de Magia:** Todos no mundo de Black Clover possuem Mana. A quantidade e o tipo de magia determinam a força do indivíduo. Asta é a exceção única que nasceu sem nenhuma Mana.
+* **Grimórios:** Livros mágicos que amplificam as habilidades do usuário. Eles escolhem seus donos. O número de folhas no trevo da capa indica a raridade e potencial (3 folhas = comum, 4 = raro, 5 = trevo negro/amaldiçoado ligado a demônios).
+* **Reino de Clover:** O cenário principal, dividido em vários reinos menores, protegido por Cavaleiros Mágicos (Magic Knights) divididos em esquadrões (Golden Dawn, Black Bulls, etc.).
+* **Anti-Magia de Asta:** Seu espadão (dado pelo demônio em seu grimório de 5 folhas) possui a capacidade única de negar e cortar qualquer tipo de magia, tornando-o forte contra magos poderosos.
+* **Elves e Demônios:** A história revela camadas profundas de preconceito, guerra civil entre raças (elfos vs humanos) e pactos sombrios com seres de outras dimensões.
 
 ## Links e Conexões
-* **Animes similares:** [[My Hero Academia]], [[Naruto]]
-* **Mesmo Estúdio/Diretor:** Estúdio [[Pierrot]]
-* **Por que te lembra esse:** Sistema de magia e protagonista que supera limitações com esforço.
-* **Mesmo Estúdio/Diretor:** 
-* **Por que te lembra esse:** [Breve explicação]
+* **Animes similares:** [[My Hero Academia]], [[Naruto]], [[Bleach]]
+* **Mesmo Estúdio/Diretor:** Estúdio [[Pierrot]] (conhecido por Naruto e Bleach)
+* **Por que te lembra esse:** O clássico "underdog" (azarão) que nasce sem poderes em um mundo de magia, mas supera todos com esforço bruto e determinação, muito similar à jornada de Naruto ou Deku.
