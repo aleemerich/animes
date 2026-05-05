@@ -3,7 +3,7 @@ titulo: The Promised Neverland
 titulo_original: 約束のネバーランド (Yakusoku no Neverland)
 ano: "2019"
 genero:
-  - Sci-Fi
+  - Ficção Científica
   - Suspense
   - Mistério
   - Thriller Psicológico
