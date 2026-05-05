@@ -37,7 +37,7 @@ veredito_rapido: O anime é fantástico, mesmo hoje ele ainda é muito atual, ex
 * **Fator WOW:** 
 
 ## Resumo
-[Resumo]
+Light Yagami é um estudante brilhante e cansado da criminalidade crescente no Japão. Sua vida muda drasticamente quando ele encontra um "Death Note" — um caderno sombrio deixado no mundo humano por Ryuk, um Shinigami (Deus da Morte) entediado. A regra principal é simples, mas terrível: qualquer humano cujo nome seja escrito no caderno morrerá de ataque cardíaco (ou de uma causa especificada). Light decide usar o caderno para eliminar criminosos e criar um mundo utópico sem crime, onde ele reinaria como um "deus" justo. No entanto, suas ações chamam a atenção de L, um detetive misterioso e genial que desafia Light em uma batalha mental de gato e rato, onde cada movimento pode significar a morte.
 
 ## Informações Importantes
 * **O Death Note:** Um caderno de capa preta com regras estritas. A regra principal: "O humano cujo nome for escrito neste caderno morrerá". O feitiço só funciona se o escritor tiver o rosto da pessoa em mente, prevenindo que pessoas com o mesmo nome morram por engano.
@@ -46,4 +46,6 @@ veredito_rapido: O anime é fantástico, mesmo hoje ele ainda é muito atual, ex
 * **Acordo dos Olhos de Shinigami:** Um humano com um Death Note pode trocar metade de sua expectativa de vida restante pelos "Olhos de Shinigami", que permitem ver o nome e o tempo de vida de qualquer pessoa apenas olhando para o rosto dela.
 
 ## Links e Conexões
-* [Quais animes te lembram Death Note? Talvez Code Geass?]
+* **Animes similares:** [Code Geass](code-geass.md), [The Promised Neverland](the-promised-neverland.md)
+* **Mesmo Estúdio/Diretor:** Estúdio [Madhouse](madhouse.md) — conhecido por thrillers psicológicos intensos
+* **Por que te lembra esse:** Batalha mental genial entre um protagonista anti-herói e um detetive misterioso, com reviravoltas constantes.
