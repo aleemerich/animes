@@ -24,27 +24,27 @@ veredito_rapido: ""
 
 ![Poster](../assets/vinland-saga-poster.jpg)
 
+## Comentários pessoais
+[Anotações baseadas na nossa conversa. O que você mais achou, o que odiou, momentos marcantes]
+
+## Como a nota é calculada
+* **A história é inteligente:** 
+* **Personagens chamam a atenção:** 
+* **O anime é bem feito:** 
+* **Foge dos clichês:** 
+* **O ritmo não enrola:** 
+* **Quão o final é satisfatório:** 
+* **Boas sacadas:** 
+* **Fator WOW:** 
+
 ## Resumo
 Baseado na era dos vikings e na invasão da Inglaterra pela Dinamarca (séc. XI), a história acompanha Thorfinn, um garoto criado ouvindo as lendas sobre "Vinland", uma terra distante, fértil e livre da guerra. Porém, após seu pai (o outrora lendário guerreiro Thors) ser assassinado de forma desonrosa pelo líder mercenário Askeladd, Thorfinn é consumido pelo ódio. Curiosamente, ele se junta ao próprio bando de Askeladd, aceitando cumprir as missões mais suicidas na guerra em troca de duelos justos contra o assassino de seu pai. Ao longo de anos banhado em sangue, o jovem buscará vingança enquanto o anime explora brutalmente o sentido da vida, a guerra e o que significa ser um "verdadeiro guerreiro".
 
-## Informações Importantes & Lore
+## Informações Importantes
 * **O "Verdadeiro Guerreiro":** O grande tema filosófico da obra, deixado pelo pai de Thorfinn: "Você não tem inimigos. Ninguém tem nenhum inimigo. Não existe uma única pessoa no mundo que seja aceitável machucar."
 * **Askeladd:** O antagonista da primeira temporada. Um líder mercenário pragmático, brilhante, carismático e incrivelmente complexo. Ele não é apenas um assassino, mas um estrategista de nível político altíssimo.
 * **Ambientação Histórica:** Muito fundamentada em personagens reais e na cultura nórdica, explorando o peso real da morte, da escravidão e da crueldade viking (sem o filtro romantizado de Hollywood).
 * **Vinland:** A terra mítica (provavelmente a América do Norte moderna) que serve como metáfora para a paz absoluta, a redenção e a saída de um mundo de violência cíclica.
-
-## Comentários Pessoais do Alessandro
-[Anotações baseadas na nossa conversa. O que você mais achou, o que odiou, momentos marcantes]
-
-## Por que essa nota?
-* **A história é inteligente:** [Nota/Justificativa]
-* **Personagens chamam a atenção:** [Nota/Justificativa]
-* **O anime é bem feito:** [Nota/Justificativa]
-* **Foge dos clichês:** [Nota/Justificativa]
-* **O ritmo não enrola:** [Nota/Justificativa]
-* **Quão o final é satisfatório:** [Nota/Justificativa]
-* **Boas sacadas:** [Nota/Justificativa]
-* **Fator WOW:** [Nota/Justificativa]
 
 ## Links e Conexões
 * **Animes similares:** [[Monster]], [[Attack on Titan]]
