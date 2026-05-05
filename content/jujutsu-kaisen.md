@@ -3,9 +3,9 @@ titulo: "Jujutsu Kaisen"
 titulo_original: "呪術廻戦"
 ano: "2020"
 genero:
-  - Action
-  - Award Winning
-  - Supernatural
+  - Ação
+  - Sobrenatural
+  - Fantasia Sombria
 tags: []
 status: "Assistido"
 assistido: ""
@@ -32,24 +32,15 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the King of Curses.
-
-Yuuji experiências first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Prefectural Jujutsu High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.
-
-[Written by MAL Rewrite]
-
-
+Yuji Itadori é um estudante do ensino médio que leva uma vida comum até encontrar um objeto amaldiçoado: um dedo de Sukuna, o Rei das Maldições. Ao engolir o dedo para proteger seus amigos, Yuji torna-se o recipiente de Sukuna, ganhando poderes imensos mas arriscando perder o controle de seu corpo. Ele é recrutado pela Escola de Magia de Tóquio, onde passa a treinar como feiticeiro jujutsu lutando contra Maldições — seres formados pela maldade e negatividade humana — enquanto busca coletar todos os dedos de Sukuna para exorcizá-lo e morrer com dignidade.
 
 ## Informações Importantes
-* **Técnicas Amaldiçoadas:** Sistema de combate baseado em energia amaldiçoada.
-* **Feitiços:** Invocação de shikigamis e domínio de domínios.
-* **Temática:** Vida e morte, sacrifíficio e amadurecimento.
-
-
+* **Energia Amaldiçoada:** Manifestação do poder espiritual negativo humano, usada como fonte de energia para técnicas de combate.
+* **Técnicas Amaldiçoadas:** Habilidades únicas desenvolvidas pelos feiticeiros, como o "Expansão de Domínio" (Domain Expansion), que cria uma área onde o usuário tem controle absoluto.
+* **Graus de Perigo:** As maldições são classificadas em graus (1 a 4, e grau especial), sendo as de grau mais alto as mais letais.
+* **A Maldição de Sukuna:** Ryomen Sukuna, o "Rei das Maldições", foi tão poderoso que sua essência sobreviveu dividida em 20 dedos, cada um contendo parte de seu poder colossal.
 
 ## Links e Conexões
 * **Animes similares:** [Demon Slayer](demon-slayer.md), [Naruto](naruto.md)
 * **Mesmo Estúdio/Diretor:** Estúdio [MAPPA](mappa.md)
-* **Por que te lembra esse:** Sistema de combate baseado em energia espiritual e protagonista determinado.
-* **Mesmo Estúdio/Diretor:** 
-* **Por que te lembra esse:** [Breve explicação]
+* **Por que te lembra esse:** Sistema de combate baseado em energia espiritual e protagonista determinado que enfrenta criaturas sobrenaturais.
