@@ -1,16 +1,16 @@
 ---
-titulo: "Spy x Family"
-titulo_original: "SPY×FAMILY"
+titulo: "SPY x FAMILY"
+titulo_original: "SPYŞFAMILY"
 ano: "2022"
 genero:
   - Action
-  - Award Winning
   - Comedy
+  - Shounen
 tags: []
 status: "Assistido"
 assistido: ""
 nota final: ""
-link_referencia: "https://myanimelist.net/anime/50265/Spy_x_Family"
+link_referencia: "https://myanimelist.net/anime/48613/SPY_x_FAMILY"
 veredito_rapido: ""
 ---
 
@@ -32,26 +32,15 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between neighboring countries Ostania and Westalis. In spite of their plots, renowned spy and master of disguise "Twilight" fulfills dangerous missions one after another in the hope that no child will have to experience the horrors of war.
-
-In the bustling Ostanian city of Berlint, Twilight dons the alias of "Loid Forger," an esteemed psychiatrist. However, his true intention is to gather intelligence on prominent politician Donovan Desmond, who only appears rarely in public at his sons' school: the prestigious Eden Academy. Enlisting the help of unmarried city hall clerk Yor Briar to act as his wife and adopting the curious six-year-old orphan Anya as his daughter, Loid enacts his master plan. He will enroll Anya in Eden Academy, where Loid hopes she will excel and give him the opportunity to meet Donovan without arousing suspicion. 
-
-Unfortunately for Loid, even a man of his talents has trouble playing the figure of a loving father and husband. And just like Loid is hiding his true identity, Yor—who is an underground assassin known as "Thorn Princess"—and Anya—an esper who can read people's minds—have no plans to disclose their own secrets either. Although this picture-perfect family is founded on deception, the Forgers gradually come to understand that the love they share for one another trumps all else.
-
-[Written by MAL Rewrite]
-
-
+O espião Twilight precisa formar uma família falsa para se aproximar de um alvo político. Ele adota a telepata Anya, casa com a assassina Yor e tenta manter a fachada enquanto lida com as trapalhadas do dia a dia familiar.
 
 ## Informações Importantes
-* **Espionagem e Família:** Combinação de ação de espionagem com comédia familiar.
-* **Poderes:** Yor tem força sobre-humana, Anya é telepata.
-* **Temática:** Confiança, família e equilíbrio entre dever e vida pessoal.
-
-
+* **Espionagem e Família:** Combinação de missão de espionagem de nível internacional com criação de uma família falsa.
+* **Poderes:** Anya é telepata, Yor tem força sobre-humana e Twilight é mestre do disfarce.
+* **Operação Strix:** Missão de Twilight para manter a paz entre nações através de uma família aparente.
+* **Temática:** Confiança, laços familiares e equilíbrio entre dever profissional e vida pessoal.
 
 ## Links e Conexões
-* **Animes similares:** [[Assassination Classroom]], [[Great Pretender]]
-* **Mesmo Estúdio/Diretor:** Estúdio [[Wit Studio]] / [[CloverWorks]]
-* **Por que te lembra esse:** A combinação de ação com comédia familiar e personagens carismáticos.
-* **Mesmo Estúdio/Diretor:** 
-* **Por que te lembra esse:** [Breve explicação]
+* **Animes similares:** [Assassination Classroom](https://myanimelist.net/anime/24833/Assassination_Classroom), [Great Pretender](https://myanimelist.net/anime/40059/Great_Pretender)
+* **Mesmo Estúdio/Diretor:** Estúdio [Wit Studio](https://myanimelist.net/anime/producer/128/Wit_Studio) / [CloverWorks](https://myanimelist.net/anime/producer/1652/CloverWorks)
+* **Por que te lembra esse:** Comédia familiar com ação de espionagem e personagens carismáticos.
