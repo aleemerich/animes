@@ -4,7 +4,7 @@ titulo_original: "薬屋のひとりごと"
 ano: "2023"
 genero:
   - Drama
-  - Mystery
+  - Mistério
 tags: []
 status: "Assistido"
 assistido: ""
@@ -31,26 +31,23 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-Maomao, an apothecary's daughter, has been plucked from her peaceful life and sold to the lowest echelons of the imperial court. Now merely a maid, Maomao settles into her new mundane life and hides her extensive knowledge of medicine in order to avoid any unwanted attention.
+Maomao, a filha de um boticário, teve sua vida pacata interrompida e foi vendida para os escalões mais baixos da corte imperial. Agora apenas uma empregada doméstica, Maomao se acomoda à sua nova vida mundana e esconde seu vasto conhecimento de medicina para evitar qualquer atenção indesejada.
 
-Not long after Maomao's arrival, the emperor's infant children inexplicably begin to experience grave symptoms—almost as if a curse has been cast. The curious Maomao easily solves the mystery and, to remain out of the limelight, attempts to leave an anonymous tip. Unfortunately, the dashing and perceptive eunuch Jinshi sees through it and manages to single her out.
+Pouco tempo depois da chegada de Maomao, os filhos infantis do imperador começam a apresentar sintomas graves inexplicáveis — quase como se uma maldição os tivesse atingido. A curiosa Maomao resolve facilmente o mistério e, para permanecer longe dos holofotes, tenta deixar uma dica anônima. Infelizmente, o galante e perspicaz eunuco Jinshi consegue identificá-la.
 
-In recognition of her talent, Maomao is promoted to lady-in-waiting for the emperor's favorite concubine, Gyokuyou. As Maomao continues to remedy the numerous ailments afflicting the imperial court, her pharmaceutical expertise quickly proves indispensable.
-
-[Written by MAL Rewrite]
+Em reconhecimento de seu talento, Maomao é promovida a dama de companhia da concubina favorita do imperador, Gyokuyou. Enquanto Maomao continua a tratar as inúmeras doenças que afligem a corte imperial, sua experiência farmacêutica rapidamente se prova indispensável.
 
 
 
 ## Informações Importantes
-* **Medicina Tradicional:** Foco em ervas medicinais e diagnósticos.
-* **Intriga Política:** Intrigas na corte imperial chinesa.
-* **Temática:** Inteligência, observação e justiça.
+* **Medicina Tradicional Chinesa:** A obra foca no uso de ervas e diagnósticos minuciosos, mostrando como Maomao aplica seu conhecimento para resolver casos que médicos da corte consideram "maldições" ou "feitiçaria".
+* **Estrutura da Corte Imperial:** Um sistema hierárquico complexo onde concubinas competem por favores, eunucos detêm grande poder político, e pequenos detalhes podem significar vida ou morte.
+* **Jinshi:** O eunuco carismático e poderoso que reconhece a inteligência de Maomao. Sua verdadeira identidade é um dos maiores segredos da obra.
+* **Quarto de Jade:** O pavilhão onde vivem as concubinas de alto escalão. É o centro das intrigas, assassinatos e mistérios que Maomao precisa resolver.
 
 
 
 ## Links e Conexões
-* **Animes similares:** [Frieren: Beyond Journey's End](frieren:-beyond-journey's-end.md), [Hyouka](hyouka.md)
-* **Mesmo Estúdio/Diretor:** Estúdio [OLM](olm.md)
-* **Por que te lembra esse:** Protagonista inteligente que resolve problemas com observação e conhecimento.
-* **Mesmo Estúdio/Diretor:** 
-* **Por que te lembra esse:** [Breve explicação]
+* **Animes similares:** [Frieren: Beyond Journey's End](frieren-beyond-journeys-end.md), [Hyouka](hyouka.md)
+* **Mesmo Estúdio/Diretor:** Estúdio [OLM](olm.md) — conhecido por animes detalhados e atmosféricos
+* **Por que te lembra esse:** Protagonista inteligente que resolve problemas com observação e conhecimento, em um cenário histórico rico e imersivo.
