@@ -2,7 +2,11 @@
 titulo: "Death Parade"
 titulo_original: "デス・パレード (Desu Parēdo)"
 ano: "2015"
-genero: ["Thriller Psicológico", "Drama", "Mistério", "Sobrenatural"]
+genero:
+  - Thriller Psicológico
+  - Drama
+  - Mistério
+  - Sobrenatural
 tags: ["pós-morte", "julgamento", "jogos", "moralidade", "comportamento-humano"]
 status: "Planejado"
 assistido: ""
