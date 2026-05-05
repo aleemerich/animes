@@ -3,7 +3,7 @@ titulo: Psycho-Pass
 titulo_original: サイコパス (Saiko Pasu)
 ano: "2012"
 genero:
-  - Sci-Fi
+  - Ficção Científica
   - Suspense
   - Policial
   - Psicológico
