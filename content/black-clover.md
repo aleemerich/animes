@@ -3,8 +3,8 @@ titulo: "Black Clover"
 titulo_original: "ブラッククローバー"
 ano: "2017"
 genero:
-  - Action
-  - Fantasy
+  - Ação
+  - Fantasia
   - Shounen
 tags:
   - magia
