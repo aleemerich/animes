@@ -34,12 +34,22 @@ veredito_rapido: ""
 ## Resumo
 Humanity was caught at a precipice a decade ago when the first gates—portals linked with other dimensions that harbor monsters immune to conventional weaponry—emerged around the world. Alongside the appearance of the gates, various humans were transformed into hunters and bestowed superhuman abilities. Responsible for entering the gates and clearing the dungeons within, many hunters chose to form guilds to secure their livelihoods.
 
+Sung Jin-Woo is an E-rank hunter dubbed as the weakest hunter of all mankind. While exploring a supposedly safe dungeon, he and his party encounter an unusual tunnel leading to a deeper area. Enticed by the prospect of treasure, the group presses forward, only to be confronted with horrors beyond their imagination. Miraculously, Jin-Woo survives the incident and soon finds that he now has access to an interface visible only to him. This mysterious system promises him the power he has long dreamed of—but everything comes at a price.
+
+[Written by MAL Rewrite]
+
+
 
 ## Informações Importantes
-* Principais temas e elementos do mundo explorados na obra.
+* **Sistema de Classes:** Hunters classificados por ranks (E ao S).
+* **Dungeons:** Portais que conectam mundos e liberam monstros.
+* **Temática:** Crescimento pessoal, ambição e superação de limites.
+
 
 
 ## Links e Conexões
-* **Animes similares:** [[ ]] 
+* **Animes similares:** [[My Hero Academia]], [[Black Clover]]
+* **Mesmo Estúdio/Diretor:** Estúdio [[A-1 Pictures]]
+* **Por que te lembra esse:** Sistema de progressão de poder e protagonista que parte do zero.
 * **Mesmo Estúdio/Diretor:** 
 * **Por que te lembra esse:** [Breve explicação]

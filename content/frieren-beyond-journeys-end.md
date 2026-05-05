@@ -33,14 +33,26 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself, the priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and battles, creating unforgettable precious memories for most of them.
+Durante a década de busca para derrotar o Rei Demônio, os membros do grupo de heróis—Himmel himself, the priest Heiter, the guerreiro anão Eisen, and the maga élfica Frieren—formam laços através de aventuras e batalhas, criando memórias preciosas e inesquecíveis for most of them.
+
+However, o tempo que Frieren passa com seus companheiros equivale a apenas uma fração de sua vida, que dura há mais de mil anos. Quando o grupo se dissolve após a vitória, Frieren casualmente retorna à sua rotina "usual"' de coletar feitiços pelo continentee. Devido ao seu sentido diferente de tempo, ela aparentemente não tem sentimentos fortes pelas experiências que passou.
+
+Com o passar dos anos, Frieren gradualmente percebe como seus dias no grupo de heróis realmente a impactaram. Testemunhando as mortes de dois de seus antigos companheiros, Frieren começa a se arrepender de ter dado sua presença como garantida; ela jura entender melhor os humanos e criar conexões pessoais reais. Although the story of that once memorable journey has long ended, a new tale is about to begin.
+
+[Written by MAL Rewrite]
+
 
 
 ## Informações Importantes
-* Principais temas e elementos do mundo explorados na obra.
+* **O peso do tempo:** A obra foca na perspectiva de uma elfa para quem décadas são apenas instantes.
+* **Magia:** O sistema de magia é baseado em estudo e conhecimento, não apenas poder bruto.
+* **Temática:** Reflexão sobre luto, memória e a importância de criar conexões.
+
 
 
 ## Links e Conexões
-* **Animes similares:** [[ ]] 
+* **Animes similares:** [[The Apothecary Diaries]], [[Mushishi]]
+* **Mesmo Estúdio/Diretor:** Estúdio [[Madhouse]]
+* **Por que te lembra esse:** A atmosfera contemplativa e o foco em uma protagonista feminina extremamente competente.
 * **Mesmo Estúdio/Diretor:** 
 * **Por que te lembra esse:** [Breve explicação]
