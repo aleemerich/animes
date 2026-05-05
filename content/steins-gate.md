@@ -2,7 +2,11 @@
 titulo: "Steins;Gate"
 titulo_original: "シュタインズ・ゲート (Shutainzu Gēto)"
 ano: "2011"
-genero: ["Sci-Fi", "Suspense", "Thriller Psicológico", "Drama"]
+genero:
+  - Ficção Científica
+  - Suspense
+  - Thriller Psicológico
+  - Drama
 tags: ["viagem-no-tempo", "paradoxo", "efeito-borboleta", "causa-e-efeito", "plot-twist"]
 status: "Planejado"
 assistido: ""
