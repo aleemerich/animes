@@ -2,7 +2,10 @@
 titulo: "Kimetsu no Yaiba"
 titulo_original: "鬼滅の刃"
 ano: "2019"
-genero: []
+genero:
+  - Action
+  - Award Winning
+  - Supernatural
 tags: []
 status: "Assistido"
 assistido: ""
@@ -29,10 +32,12 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-[Resumo do enredo, principal conflito e conclusão]
+Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.
+
 
 ## Informações Importantes
-[Detalhes do mundo, sistema de poder, regras do universo, facções, etc.]
+* Principais temas e elementos do mundo explorados na obra.
+
 
 ## Links e Conexões
 * **Animes similares:** [[ ]] 

@@ -2,7 +2,10 @@
 titulo: "Ore dake Level Up na Ken"
 titulo_original: "俺だけレベルアップな件"
 ano: "2024"
-genero: []
+genero:
+  - Action
+  - Adventure
+  - Fantasy
 tags: []
 status: "Assistido"
 assistido: ""
@@ -29,10 +32,12 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-[Resumo do enredo, principal conflito e conclusão]
+Humanity was caught at a precipice a decade ago when the first gates—portals linked with other dimensions that harbor monsters immune to conventional weaponry—emerged around the world. Alongside the appearance of the gates, various humans were transformed into hunters and bestowed superhuman abilities. Responsible for entering the gates and clearing the dungeons within, many hunters chose to form guilds to secure their livelihoods.
+
 
 ## Informações Importantes
-[Detalhes do mundo, sistema de poder, regras do universo, facções, etc.]
+* Principais temas e elementos do mundo explorados na obra.
+
 
 ## Links e Conexões
 * **Animes similares:** [[ ]] 

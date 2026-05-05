@@ -2,7 +2,11 @@
 titulo: "Sousou no Frieren"
 titulo_original: "葬送のフリーレン"
 ano: "2023"
-genero: []
+genero:
+  - Adventure
+  - Award Winning
+  - Drama
+  - Fantasy
 tags: []
 status: "Assistido"
 assistido: ""
@@ -29,10 +33,12 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-[Resumo do enredo, principal conflito e conclusão]
+During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself, the priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and battles, creating unforgettable precious memories for most of them.
+
 
 ## Informações Importantes
-[Detalhes do mundo, sistema de poder, regras do universo, facções, etc.]
+* Principais temas e elementos do mundo explorados na obra.
+
 
 ## Links e Conexões
 * **Animes similares:** [[ ]] 

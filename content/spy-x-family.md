@@ -2,7 +2,10 @@
 titulo: "Spy x Family"
 titulo_original: "SPY×FAMILY"
 ano: "2022"
-genero: []
+genero:
+  - Action
+  - Award Winning
+  - Comedy
 tags: []
 status: "Assistido"
 assistido: ""
@@ -29,10 +32,12 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-[Resumo do enredo, principal conflito e conclusão]
+Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between neighboring countries Ostania and Westalis. In spite of their plots, renowned spy and master of disguise "Twilight" fulfills dangerous missions one after another in the hope that no child will have to experience the horrors of war.
+
 
 ## Informações Importantes
-[Detalhes do mundo, sistema de poder, regras do universo, facções, etc.]
+* Principais temas e elementos do mundo explorados na obra.
+
 
 ## Links e Conexões
 * **Animes similares:** [[ ]] 

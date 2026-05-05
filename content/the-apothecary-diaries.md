@@ -2,7 +2,9 @@
 titulo: "Kusuriya no Hitorigoto"
 titulo_original: "薬屋のひとりごと"
 ano: "2023"
-genero: []
+genero:
+  - Drama
+  - Mystery
 tags: []
 status: "Assistido"
 assistido: ""
@@ -29,10 +31,12 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-[Resumo do enredo, principal conflito e conclusão]
+Maomao, an apothecary's daughter, has been plucked from her peaceful life and sold to the lowest echelons of the imperial court. Now merely a maid, Maomao settles into her new mundane life and hides her extensive knowledge of medicine in order to avoid any unwanted attention.
+
 
 ## Informações Importantes
-[Detalhes do mundo, sistema de poder, regras do universo, facções, etc.]
+* Principais temas e elementos do mundo explorados na obra.
+
 
 ## Links e Conexões
 * **Animes similares:** [[ ]] 

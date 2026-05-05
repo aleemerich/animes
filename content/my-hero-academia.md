@@ -2,7 +2,8 @@
 titulo: "Boku no Hero Academia"
 titulo_original: "僕のヒーローアカデミア"
 ano: "2016"
-genero: []
+genero:
+  - Action
 tags: []
 status: "Assistido"
 assistido: ""
@@ -29,10 +30,12 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-[Resumo do enredo, principal conflito e conclusão]
+The appearance of "quirks," newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.
+
 
 ## Informações Importantes
-[Detalhes do mundo, sistema de poder, regras do universo, facções, etc.]
+* Principais temas e elementos do mundo explorados na obra.
+
 
 ## Links e Conexões
 * **Animes similares:** [[ ]] 

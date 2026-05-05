@@ -2,7 +2,9 @@
 titulo: "Sakamoto Days"
 titulo_original: "SAKAMOTO DAYS"
 ano: "2025"
-genero: []
+genero:
+  - Action
+  - Comedy
 tags: []
 status: "Assistido"
 assistido: ""
@@ -29,10 +31,12 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-[Resumo do enredo, principal conflito e conclusão]
+The name Tarou Sakamoto once instilled fear in every villain. No other professional hitman matched his prowess, and fellow assassins revered him. However, Sakamoto fell in love. In five short years, he married, became a father, put on some weight, and traded his weapons for an apron as he became the owner of a humble convenience store.
+
 
 ## Informações Importantes
-[Detalhes do mundo, sistema de poder, regras do universo, facções, etc.]
+* Principais temas e elementos do mundo explorados na obra.
+
 
 ## Links e Conexões
 * **Animes similares:** [[ ]] 
