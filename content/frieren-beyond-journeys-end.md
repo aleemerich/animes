@@ -33,15 +33,26 @@ veredito_rapido: ""
 * **Fator WOW:** 
 
 ## Resumo
-Após derrotar o Rei Demônio, o grupo de heróis se dissolve. A elfa Frieren, que vive há milênios, percebe que o tempo que passou com seus companheiros humanos foi apenas um instante para ela. Ao ver seus amigos envelhecerem e morrerem, ela decide iniciar uma nova jornada para entender melhor os humanos e honrar as memórias deixadas.
+Durante a década de busca para derrotar o Rei Demônio, os membros do grupo de heróis—Himmel himself, the priest Heiter, the guerreiro anão Eisen, and the maga élfica Frieren—formam laços através de aventuras e batalhas, criando memórias preciosas e inesquecíveis for most of them.
+
+However, o tempo que Frieren passa com seus companheiros equivale a apenas uma fração de sua vida, que dura há mais de mil anos. Quando o grupo se dissolve após a vitória, Frieren casualmente retorna à sua rotina "usual"' de coletar feitiços pelo continentee. Devido ao seu sentido diferente de tempo, ela aparentemente não tem sentimentos fortes pelas experiências que passou.
+
+Com o passar dos anos, Frieren gradualmente percebe como seus dias no grupo de heróis realmente a impactaram. Testemunhando as mortes de dois de seus antigos companheiros, Frieren começa a se arrepender de ter dado sua presença como garantida; ela jura entender melhor os humanos e criar conexões pessoais reais. Although the story of that once memorable journey has long ended, a new tale is about to begin.
+
+[Written by MAL Rewrite]
+
+
 
 ## Informações Importantes
-* **O peso do tempo:** Elfos vivem milênios, então décadas humanas são apenas instantes para Frieren.
-* **Magia:** Sistema baseado em feitiços colecionados e compreensão profunda de elementos mágicos.
-* **Jornada pós-herói:** Após a vitória, Frieren percebe que não valorizou o tempo com Himmel e seus companheiros.
-* **Temática:** Reflexão sobre mortalidade, memória e a importância de criar conexões reais.
+* **O peso do tempo:** A obra foca na perspectiva de uma elfa para quem décadas são apenas instantes.
+* **Magia:** O sistema de magia é baseado em estudo e conhecimento, não apenas poder bruto.
+* **Temática:** Reflexão sobre luto, memória e a importância de criar conexões.
+
+
 
 ## Links e Conexões
-* **Animes similares:** [The Apothecary Diaries](the-apothecary-diaries.md), [Mushishi](https://myanimelist.net/anime/457/Mushishi)
-* **Mesmo Estúdio/Diretor:** Estúdio [Madhouse](https://myanimelist.net/anime/producer/9/Madhouse)
-* **Por que te lembra esse:** Atmosfera contemplativa e protagonista feminina competente em um mundo de fantasia.
+* **Animes similares:** [[The Apothecary Diaries]], [[Mushishi]]
+* **Mesmo Estúdio/Diretor:** Estúdio [[Madhouse]]
+* **Por que te lembra esse:** A atmosfera contemplativa e o foco em uma protagonista feminina extremamente competente.
+* **Mesmo Estúdio/Diretor:** 
+* **Por que te lembra esse:** [Breve explicação]
