@@ -38,6 +38,6 @@ Mahiru Shiina é conhecida como o "Anjo" da escola: uma beleza divina amada por 
 * O estúdio responsável pela animação é o Project No.9.
 
 ## Links e Conexões
-* **Animes similares:** [ ]
-* **Mesmo Estúdio/Diretor:** [ ]
-* **Por que te lembra esse:** [ ]
+* **Animes similares:** [Horimiya](horimiya.md), [Kaguya-sama: Love is War](kaguya-sama-love-is-war.md), [My Dress-Up Darling](my-dress-up-darling.md)
+* **Mesmo Estúdio/Diretor:** Estúdio [Project No.9](project-no-9.md)
+* **Por que te lembra esse:** Pelo desenvolvimento gradual e carinhoso do romance entre vizinhos com personalidades opostas, focando no conforto e amadurecimento emocional.
