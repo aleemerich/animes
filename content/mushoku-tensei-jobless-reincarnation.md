@@ -38,6 +38,6 @@ Após uma vida marcada por bullying e desprezo, um homem de 34 anos tenta realiz
 * A jornada de Rudeus não foca apenas na força, mas no crescimento pessoal e na superação dos traumas da sua vida como um *shut-in*.
 
 ## Links e Conexões
-* **Animes similares:** [ ]
-* **Mesmo Estúdio/Diretor:** [ ]
-* **Por que te lembra esse:** [ ]
+* **Animes similares:** [Re:Zero - Starting Life in Another World](rezero-starting-life-in-another-world.md), [That Time I Got Reincarnated as a Slime](that-time-i-got-reincarnated-as-a-slime.md)
+* **Mesmo Estúdio/Diretor:** Estúdio [Studio Bind](studio-bind.md)
+* **Por que te lembra esse:** Pelo foco profundo na jornada de auto-descoberta e evolução mágica em um mundo de fantasia detalhado.
