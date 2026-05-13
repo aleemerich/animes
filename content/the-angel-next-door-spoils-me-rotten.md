@@ -8,7 +8,7 @@ status: "Assistido"
 assistido: "mai/2026"
 nota final: "8.4"
 link_referencia: "https://myanimelist.net/anime/50739/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken"
-veredito_rapido: ""
+veredito_rapido: "Anime leve, fofo e sensível que traz uma visão carinhosa de um amor adolescente improvável, priorizando um relacionamento saudável e mantendo a sexualidade em contexto."
 ---
 
 # The Angel Next Door Spoils Me Rotten
