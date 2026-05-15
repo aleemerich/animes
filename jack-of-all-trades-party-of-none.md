@@ -6,9 +6,9 @@ genero: ["Action", "Adventure", "Fantasy"]
 tags: ["isekai", "adventure", "hero-party", "underdog", "swordsman", "enchanter"]
 status: "Assistido"
 assistido: "mai/2026"
-nota final: ""
+nota final: "5.25"
 link_referencia: "https://myanimelist.net/anime/61128"
-veredito_rapido: ""
+veredito_rapido: "Anime mediano com premissa interessante de protagonista expulso do grupo, mas que não inova muito no gênero. História funcional, personagens ok, mas falta impacto."
 ---
 
 # Jack-of-All-Trades, Party of None
@@ -19,14 +19,14 @@ veredito_rapido: ""
 [Anotações]
 
 ## Como a nota é calculada
-* **A história é inteligente:**
-* **Personagens chamam a atenção:**
-* **O anime é bem feito:**
-* **Foge dos clichês:**
-* **O ritmo não enrola:**
-* **Quão o final é satisfatório:**
-* **Boas sacadas:**
-* **Fator WOW:**
+* **A história é inteligente:** 7
+* **Personagens chamam a atenção:** 6
+* **O anime é bem feito:** 6
+* **Foge dos clichês:** 4
+* **O ritmo não enrola:** 5
+* **Quão o final é satisfatório:** 6
+* **Boas sacadas:** 4
+* **Fator WOW:** 4
 
 ## Resumo
 Orhun Dura era um espadachim habilidoso que se adaptou ao papel de Encantador para preencher uma lacuna no Partido do Herói. Um dia, o líder do partido o dispensa abruptamente, alegando que suas habilidades são insuficientes. Rotulado de "fraco" e "pau pra toda obra, mestre de nada" por seus ex-companheiros, Orhun é expulso sem pensar duas vezes.
