@@ -16,7 +16,7 @@ veredito_rapido: "Anime mediano com premissa interessante de protagonista expuls
 ![Poster](../assets/jack-of-all-trades-party-of-none-poster.jpg)
 
 ## Comentários pessoais
-[Anotações]
+É um anime com bom acabamento, uma história boa, mas a mesma mecânica em geral que é um cara mais ou menos aparentemente que é zuado por todos e vira o cara foda. Nada ruim na evolução, mas nada que dê algum diferencial.
 
 ## Como a nota é calculada
 * **A história é inteligente:** 7
