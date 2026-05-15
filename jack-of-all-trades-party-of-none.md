@@ -43,6 +43,6 @@ Determinado a recomeçar, ele volta a ser aventureiro — desta vez como Espadac
 - **2ª temporada confirmada** (ainda não estreou)
 
 ## Links e Conexões
-* **Animes similares:** [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790) (protagonista injustiçado pelo grupo), [Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki](https://myanimelist.net/anime/57944) (expulso do partido e descobre ser forte), [Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga](https://myanimelist.net/anime/56854) (herói subestimado com habilidades ocultas)
+* **Animes similares:** [Solo Leveling](content/solo-leveling.md) (protagonista subestimado que se torna o mais forte), [Black Clover](content/black-clover.md) (azarão sem poderes que supera todos com esforço), [My Hero Academia](content/my-hero-academia.md) (herói partindo do zero até o topo)
 * **Mesmo Estúdio/Diretor:** animation studio42
-* **Por que te lembra esse:** Fórmula clássica do protagonista "jack of all trades" que é descartado pelo grupo e prova seu valor sozinho — lembra Shield Hero e Arifureta pela dinâmica de expulsão + redenção
+* **Por que te lembra esse:** Fórmula clássica do protagonista "jack of all trades" que é descartado pelo grupo e prova seu valor sozinho — lembra Solo Leveling, Black Clover e MHA pela dinâmica de subestimação + redenção
