@@ -8,7 +8,7 @@ status: "Assistido"
 assistido: "mai/2026"
 nota final: "5.25"
 link_referencia: "https://myanimelist.net/anime/61128"
-veredito_rapido: "Anime mediano com premissa interessante de protagonista expulso do grupo, mas que não inova muito no gênero. História funcional, personagens ok, mas falta impacto."
+veredito_rapido: "Anime com bom acabamento e história competente, mas segue a fórmula conhecida do protagonista subestimado que se torna forte. Evolução sem surpresas e sem diferencial."
 ---
 
 # Jack-of-All-Trades, Party of None
