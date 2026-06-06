@@ -35,3 +35,6 @@ Serafina de Lavillant, a mais forte cavaleira feminina do Ocidente, é derrotada
 * Sinônimos: Himekishi wa Banzoku no Yome, The Barbarian's Bride.
 
 ## Links e Conexões
+* **Animes similares:** [The Ancient Magus Bride](the-ancient-magus-bride.md), [Re:Zero - Starting Life in Another World](rezero-starting-life-in-another-world.md)
+* **Mesmo Estúdio/Diretor:** Estúdio [Jumondou](jumondou.md)
+* **Por que te lembra esse:** O tropo de uma protagonista forte que se vê vinculada a um ser perceived como inimigo/bárbaro e a relação que se desenvolve contra as expectativas.
