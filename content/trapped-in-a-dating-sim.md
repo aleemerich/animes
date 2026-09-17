@@ -7,7 +7,7 @@ tags: ["otome-game", "isekai", "reencarnacao", "mob", "comedia"]
 status: "Assistido"
 assistido: "set/2026"
 nota_final: "5.5"
-link_referencia: "https://myanimelist.net/anime/51685/Trapped_in_a_Dating_Sim__The_World_of_Otome_Games_is_Tough_for_Mobs"
+link_referencia: "https://myanimelist.net/anime/50461/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu"
 veredito_rapido: "Anime padrão. Bem feitinho, velha história de alguém que reencarna com conhecimento e sai na frente. Nada wow! Mas da pra passar o tempo bem."
 ---
 
