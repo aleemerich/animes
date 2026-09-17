@@ -1,14 +1,14 @@
 ---
 titulo: "Saga of Tanya the Evil"
 titulo_original: "Yōjo Senki"
-ano: "2026"
+ano: "2017"
 genero: ["Ação", "Aventura", "Fantasia", "Isekai", "Reencarnação"]
 tags: ["tanya-degurechaff", "german-army", "magic-user", "tactical-genius", "isekai"]
-status: "Assistindo"
+status: "Finalizado"
 assistido: ""
-nota_final: "3.8"
-link_referencia: "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru"
-veredito_rapido: "A ideia é boa, o anime é bem produzido, tem potencial mas o anime se perde em comentários, logos diálogos em torno de estratégias de guerra e coisas meio simplistas perto dos acontecimentos. É uma garota comandando praticamente uma guerra mundial e todo mundo tá bem com isso, sendo que ela é uma reencarnação de um gênio, mas ninguém sabe dessa parte, então descola demais da realidade."
+nota_final: "7.96"
+link_referencia: "https://myanimelist.net/anime/22535/Youjo_Senki"
+veredito_rapido: "A premissa é excelente: uma protagonista jovem e talentosa comandando estratégias militares em um mundo de fantasia com reencarnação. A produção é de alta qualidade, mas a narrativa às vezes se perde em comentários políticos e estratégias de guerra detalhadas, ficando distante da realidade cotidiana de um conflito global. Tanya Degurechaff carismática, mas a distância entre o espectador e a imersão tática é grande."
 ---
 
 # Saga of Tanya the Evil
