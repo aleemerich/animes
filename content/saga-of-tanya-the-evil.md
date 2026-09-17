@@ -33,19 +33,19 @@ Tanya Degurechaff, uma garota que foi reencarnada como uma infantaria do exérci
 
 ## Informações Importantes
 * **Título original (MAL):** Yōjo Senki.
-* **Título inglês:** Saga of Tanya the Evil (no Crunchyroll) / Youjo Senki (no MyAnimeList).
-* **Fonte:** Web manga publicada pela Kadokawa (via Unicode).
-* **Estúdio:** 100studio (responsável por obras como "Gochuumon wa Usagi Desuka?" e "Sakurada Rentō.").
-* **Temporada:** Verão 2026.
-* **Episódios:** 12 (23 min cada, finalizado em 20/10/2026).
+* **Título inglês:** Saga of Tanya the Evil (Crunchyroll) / Youjo Senki (MyAnimeList).
+* **Fonte:** Light novel publicada pela Kadokawa (via Enterbrain).
+* **Estúdio:** Nut.
+* **Temporada:** Inverno 2017.
+* **Episódios:** 12 (23 min cada, finalizado em 31/03/2017).
 * **Classificação:** R — 17+ (violência e profanidade).
-* **Gênero principal:** Ação, Aventura, Fantasia, Isekai, Reincarnação.
-* **Status de transmissão:** Finalizado; disponível no Crunchyroll e plataformas compatíveis.
-* **Produção:** Shochiku, Mainichi Broadcasting System, Kodansha, Glovision, Crunchyroll, Shochiku Music Publishing, Muse Communication.
-* **Licenciadores:** Crunchyroll (licenciou a série globalmente).
-* **Sistema do mundo:** Mundo onde coexistimos com espíritos e entidades sobrenaturais; a humanidade mantém uma organização secreta para proteger as pessoas e neutralizar as ameaças.
-* **Ponto-chave:** A premissa de uma garota comandando praticamente uma guerra mundial e todos estando bem com isso, sendo ela uma reencarnação de um gênio, mas ninguém sabe dessa parte, então descola demais da realidade.
-* **Observação técnica:** A animação é visualmente distinta, com giro de câmera 360° e movimentos rápidos, que lembram produções anteriores do estúdio.
+* **Gênero principal:** Ação, Aventura, Fantasia, Isekai, Reencarnação.
+* **Status de transmissão:** Finalizado; disponível no Crunchyroll e Netflix.
+* **Produção:** AT-X, Enterbrain, Sony Music Communications, Kadokawa.
+* **Licenciadores:** Funimation, Crunchyroll.
+* **Sistema do mundo:** Mundo de fantasia militar com magia; império inspirado na Alemanha da I Guerra Mundial; deus autodenominado "Being X" interfere na reencarnação.
+* **Ponto-chave:** Tanya Degurechaff, reencarnação de um salaryman japonês ateu, desafia Being X usando genialidade tática para sobreviver e ascender nas forças armadas imperiais.
+* **Observação técnica:** Animação limpa e fluida do estúdio Nut, design de personagens marcante, efeitos de magia militar bem integrados.
 
 ## Links e Conexões
 * **Animes similares:** [Saga of Tanya the Evil](saga-of-tanya-the-evil.md) (protagonista que usa estratégias de jogo para dominar o mundo), [That Time I Got Reincarnated as a Slime](that-time-i-got-reincarnated-as-a-slime.md) (isekai com conhecimento prévio), [Solo Leveling](solo-leveling.md) (sistema de progressão de poder)
